@@ -1,0 +1,11 @@
+OpportunityID,Title,Company,RequiredSkill,Reward,Deadline,Status
+OPP001,Opportunity 1,BioFuture,Supply Chain,70488,2026-08-28,Open
+OPP002,Opportunity 2,Green Earth Pvt Ltd,Logistics,25817,2026-08-23,Open
+OPP003,Opportunity 3,EcoPack Industries,Negotiation,67739,2026-08-23,Open
+OPP004,Opportunity 4,BioServe Packaging,Quality Assurance,61145,2026-08-13,Open
+OPP005,Opportunity 5,EarthSafe,Logistics,86469,2026-08-19,Open
+OPP006,Opportunity 6,GreenHub,Packaging,62753,2026-08-22,Open
+OPP007,Opportunity 7,EcoWare,Logistics,92667,2026-08-14,Open
+OPP008,Opportunity 8,Green Earth Pvt Ltd,Packaging,69695,2026-08-15,Open
+OPP009,Opportunity 9,BioFuture,Logistics,73225,2026-08-27,Open
+OPP010,Opportunity 10,GreenCore,Procurement,59829,2026-08-19,Open

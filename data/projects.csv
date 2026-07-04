@@ -1,0 +1,11 @@
+ProjectID,ProjectName,Business,Category,Budget,Deadline,Status
+PRJ001,Project 1,EcoNest,Packaging,140605,2026-09-25,Open
+PRJ002,Project 2,Green Earth Pvt Ltd,Packaging,582662,2026-09-21,Active
+PRJ003,Project 3,GreenCore,Packaging,338651,2026-09-17,Open
+PRJ004,Project 4,GreenHub,Packaging,302511,2026-09-22,Active
+PRJ005,Project 5,EarthBox,Packaging,172792,2026-09-18,Active
+PRJ006,Project 6,PackX,Packaging,634150,2026-09-22,Completed
+PRJ007,Project 7,GreenCore,Packaging,662262,2026-09-20,Open
+PRJ008,Project 8,NaturePack,Packaging,373903,2026-09-15,Completed
+PRJ009,Project 9,EarthBox,Packaging,140115,2026-09-13,Completed
+PRJ010,Project 10,PackRight,Packaging,462479,2026-09-20,Active

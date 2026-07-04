@@ -1,0 +1,11 @@
+RequestID,Business,Category,Quantity,DeliveryDays,Certification,Status
+REQ001,Green Earth Pvt Ltd,Biodegradable Containers,20000,25,Food Grade,Open
+REQ002,GoGreen,Biodegradable Containers,20000,30,Food Grade,Open
+REQ003,GreenHub,Biodegradable Containers,10000,30,Food Grade,Open
+REQ004,BioLeaf,Biodegradable Containers,10000,15,Food Grade,Open
+REQ005,BioEco Solutions,Biodegradable Containers,15000,15,Food Grade,Open
+REQ006,GreenCore,Biodegradable Containers,10000,25,Food Grade,Open
+REQ007,FreshPack,Biodegradable Containers,10000,20,Food Grade,Open
+REQ008,EcoPack Industries,Biodegradable Containers,5000,20,Food Grade,Open
+REQ009,SafeServe,Biodegradable Containers,5000,30,Food Grade,Open
+REQ010,PackRight,Biodegradable Containers,10000,30,Food Grade,Open
