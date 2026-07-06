@@ -396,7 +396,7 @@ https://github.com/hefaaa/suproc-ai-procurement-agent
 
 Demo Video URL
 
-(Add your video link)
+https://drive.google.com/file/d/1SLSt9DdpP1RyMZcBILNA8YWxxDMDHpA-/view?usp=drivesdk
 
 Model Used
 
